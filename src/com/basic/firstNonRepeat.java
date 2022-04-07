@@ -1,8 +1,7 @@
-package com.mamta;
+package com.basic;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.sql.SQLOutput;
 import java.util.HashMap;
 
 public class firstNonRepeat {

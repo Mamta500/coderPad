@@ -1,4 +1,4 @@
-package com.mamta;
+package com.basic;
 
 public class Palindrome {
     public static String getPalindrome(int n){

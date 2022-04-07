@@ -1,4 +1,4 @@
-package com.mamta;
+package com.basic;
 
 import java.util.Scanner;
 

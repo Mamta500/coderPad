@@ -1,4 +1,4 @@
-package com.mamta;
+package com.basic;
 
 public class snowPackProblem {
     public static int getSnow(int arr[]){
